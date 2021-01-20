@@ -22,7 +22,7 @@ public class Metodos {
         
     }
 
-    public Array metodo2(int x, y, z){
+    public Array metodo2(int[] x, y, z){
         if(Array=={1,2,3}){
             String result = "1 2 Face";
         }
