@@ -80,5 +80,4 @@ void testValores3() {
     // 3 - Aserciones
     assertEquals({4,6,8}, result, "4 6 8");
 }
-
 }
